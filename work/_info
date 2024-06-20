@@ -1,0 +1,280 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Hp/Desktop/Project
+vadd_sub
+Z0 !s110 1715424575
+!i10b 1
+!s100 ]H?TceZY]gmOJ_5UQaG5`0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>;Eh@`m]lG9FNOnS0[iKb3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Hp/Desktop/Project-Copy2/Project-Copy
+w1714766690
+8add_sub.v
+Fadd_sub.v
+!i122 168
+L0 2 40
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1715424575.000000
+Z6 !s107 twos_comp_output.v|Remainder_tb.v|Remainder.v|Multiplying_tb.v|Multiplying.v|full_adder.v|alu_tb.v|alu.v|add_sub_tb.v|add_sub.v|
+Z7 !s90 add_sub.v|add_sub_tb.v|alu.v|alu_tb.v|full_adder.v|Multiplying.v|Multiplying_tb.v|Remainder.v|Remainder_tb.v|twos_comp_output.v|
+!i113 1
+Z8 tCvgOpt 0
+vadd_sub_tb
+R0
+!i10b 1
+!s100 i2I4BYQW<@n^OGeW`jBbb2
+R1
+ILLI5a_mPKkoERgB=`M4C23
+R2
+R3
+w1715423639
+8add_sub_tb.v
+Fadd_sub_tb.v
+!i122 168
+L0 2 175
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+valu
+R0
+!i10b 1
+!s100 7SdNUU[i]k:4DO4o4Z;0S3
+R1
+I[I@^_FmJ4gDHl2m;H66hO0
+R2
+R3
+w1714764986
+8alu.v
+Falu.v
+!i122 168
+L0 1 121
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+valu_tb
+R0
+!i10b 1
+!s100 Ln^IzU9R0J0hcQG72_^c;3
+R1
+IG0Uc2NgNE<H:c3[@Kk6X?0
+R2
+R3
+w1714766333
+8alu_tb.v
+Falu_tb.v
+!i122 168
+L0 1 72
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vfull_adder
+R0
+!i10b 1
+!s100 XQID>[Y=>6fC@a]1jo6]K0
+R1
+I4o]><kRE^:j5_UC:7Ie722
+R2
+R3
+Z9 w1714758409
+8full_adder.v
+Ffull_adder.v
+!i122 168
+L0 1 12
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vMultiplication_tb
+!s110 1714761019
+!i10b 1
+!s100 Hh34JCh_<IZbWCGGPPh650
+R1
+IanbCJeNdaY]YPlIND43a^1
+R2
+R3
+w1714760455
+Z10 8Multiplying_tb.v
+Z11 FMultiplying_tb.v
+!i122 101
+L0 1 30
+R4
+r1
+!s85 0
+31
+!s108 1714761019.000000
+R6
+R7
+!i113 1
+R8
+n@multiplication_tb
+vMultiplying
+R0
+!i10b 1
+!s100 LUB1:hNnHF0JH6lXd9=760
+R1
+Ij9YD0H^l`6PIkcDPUUMV80
+R2
+R3
+R9
+8Multiplying.v
+FMultiplying.v
+!i122 168
+L0 1 14
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@multiplying
+vMultiplying_tb
+R0
+!i10b 1
+!s100 WK<`UDCU`5KgY:JaT4S>N0
+R1
+IfJk_W>URVCQ703=dHNbHd2
+R2
+R3
+w1715423958
+R10
+R11
+!i122 168
+L0 1 42
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@multiplying_tb
+vRemainder
+R0
+!i10b 1
+!s100 NWIe95F@a9_z4X7Qn7`b`1
+R1
+I3WC7gS`Q1mj0GW5Y8lSN<3
+R2
+R3
+w1714766717
+8Remainder.v
+FRemainder.v
+!i122 168
+L0 1 41
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@remainder
+vRemainder_tb
+R0
+!i10b 1
+!s100 7=z16HXl]Y7Lb3[ek3fGQ1
+R1
+I9IIY8A6<`ZN=[nH?QibE=1
+R2
+R3
+w1715424564
+8Remainder_tb.v
+FRemainder_tb.v
+!i122 168
+L0 1 49
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@remainder_tb
+vtwos_comp_input
+!s110 1714326140
+!i10b 1
+!s100 71>aie5Z5zPkhKLPfm4=H3
+R1
+I<UW]R57A>TQJP87Co7mjX0
+R2
+dC:/Users/Hp/Desktop/Project-Copy
+w1714319706
+8twos_comp_input.v
+Ftwos_comp_input.v
+!i122 32
+L0 1 10
+R4
+r1
+!s85 0
+31
+!s108 1714326140.000000
+!s107 twos_comp_output.v|twos_comp_input.v|full_adder.v|add_sub_tb.v|add_sub.v|
+!s90 add_sub.v|add_sub_tb.v|full_adder.v|twos_comp_input.v|twos_comp_output.v|
+!i113 1
+R8
+vtwos_comp_output
+R0
+!i10b 1
+!s100 EicfC_Da:X3:Z1DU`Nbgh1
+R1
+IdEXjNnBUN5b?7_[6Q25Rz0
+R2
+R3
+w1714766723
+8twos_comp_output.v
+Ftwos_comp_output.v
+!i122 168
+L0 1 11
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
